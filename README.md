@@ -1,1 +1,1 @@
-# compact_NAS_server
+# A compact server for NAS
